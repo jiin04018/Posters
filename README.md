@@ -1,4 +1,4 @@
-Presentations
+# Presentations
 Choi J, Cha DG, Baik B, Kim H, Jang K, Hwang S, Lee B (2026) KEA: A public archive for functional genomics data, 
 The 22nd KOGO Winter Symposium [Poster Presentation]
 Choi J, Cha DG, Baik B, Jang K, Hwang S, Lee B (2025) KArray: A public archive for microarray-based functional 

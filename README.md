@@ -9,7 +9,7 @@ Choi J, Jang K (2024) Single-cell Transcriptomic Profiling for Dissecting Intrat
 Tumor Progression, AACR & KCA joint conference on precision medicine in cancer [Poster Presentation]
 
 Kwon Y, Cho HJ, Choi J, Park KB, Seo AN, Kim M, Park JH, Hur K (2024) Single-cell transcriptome analysis discovers 
-the difference of immunologic heterogeneity in tumor microenvironment during gastric tumor progression, Digestice Disease Week (DDW) 2024 [Poster presentation]
+the difference of immunologic heterogeneity in tumor microenvironment during gastric tumor progression, Digestive Disease Week (DDW) 2024 [Poster presentation]
 
 Choi J, Cho HJ (2022) Transcriptomic Landscape of Immune System in Brain Tumors, 
 KSMO International Conference [Poster Presentation]
